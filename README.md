@@ -1,8 +1,17 @@
 # README2
 #Tamagotchi Applications
 #Images
-![image](https://github.com/ST10447238/README2/assets/160851446/eb7a3bef-cda1-4807-8ee7-11fff5d3269a)
-![image](https://github.com/ST10447238/README2/assets/160851446/02081685-eacb-496d-b729-46ad081b50d8)
+![image](https://github.com/ST10447238/README2/assets/160851446/fccaa8d3-0782-44b2-bc60-dce2aaeedd5e)
+![image](https://github.com/ST10447238/README2/assets/160851446/54449b34-b732-4281-8d0c-3e9be0389d58)
+![image](https://github.com/ST10447238/README2/assets/160851446/c2fb847d-090d-4fbb-826e-1a69ec4607f5)
+![image](https://github.com/ST10447238/README2/assets/160851446/a64cc2a4-8275-4856-87d6-e69261f8d423)
+![image](https://github.com/ST10447238/README2/assets/160851446/1bffe146-853f-4783-ab43-3d386e75eb4d)
+![image](https://github.com/ST10447238/README2/assets/160851446/ca2657ec-ff61-49bd-ab68-2d3f27ce36e0)
+![image](https://github.com/ST10447238/README2/assets/160851446/1522fd43-1110-4cc7-a993-6d5bc197b8d5)
+![image](https://github.com/ST10447238/README2/assets/160851446/2d386d84-1d3f-49d9-bc0f-f540cc13e9c5)
+![image](https://github.com/ST10447238/README2/assets/160851446/982bc5bf-b435-4813-a652-8551dc114d23)
+![image](https://github.com/ST10447238/README2/assets/160851446/ccdb21ff-3931-4171-aa41-a434e4c2f231)
+
 # Purpose
 The purpose of the Tamagotchi App is to educate and give people experience in terms of taking care of a virtual pet, just like the way they would with real ones. The App is made to keep people engaged with interactive activities such as feeding, cleaning, playing, and most importantly disciplining the pet.
 #Design
