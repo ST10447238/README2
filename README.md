@@ -19,4 +19,4 @@ The images above is the first step of the Tamagotchi application, which shows th
 
 # Reference List
         IIE,2024.Introduction to mobile application development.IMAD5112
-        Five Minute How to move  from one activity to another activity-Brijesh Kumar Sharm,2021.YouTube Video,added by Tech Projects.[Online].Available at:https://youtu.be/JOdWT50bWw4?si=pKORlQFAtf3J7EXS[Accessed 25 April 20240]
+        Five Minute How to move  from one activity to another activity-Brijesh Kumar Sharm,2021.YouTube Video,added by Tech Projects.[Online].Available at:https://youtu.be/JOdWT50bWw4?si=9hVmqYmsJk2MzVIr[Accessed 25 April 20240]
