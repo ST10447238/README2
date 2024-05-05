@@ -1,16 +1,16 @@
 # README2
 # Tamagotchi Applications
 # Images
-![image](https://github.com/ST10447238/README2/assets/160851446/fccaa8d3-0782-44b2-bc60-dce2aaeedd5e)
-![image](https://github.com/ST10447238/README2/assets/160851446/54449b34-b732-4281-8d0c-3e9be0389d58)
-![image](https://github.com/ST10447238/README2/assets/160851446/c2fb847d-090d-4fbb-826e-1a69ec4607f5)
-![image](https://github.com/ST10447238/README2/assets/160851446/a64cc2a4-8275-4856-87d6-e69261f8d423)
-![image](https://github.com/ST10447238/README2/assets/160851446/1bffe146-853f-4783-ab43-3d386e75eb4d)
-![image](https://github.com/ST10447238/README2/assets/160851446/ca2657ec-ff61-49bd-ab68-2d3f27ce36e0)
-![image](https://github.com/ST10447238/README2/assets/160851446/1522fd43-1110-4cc7-a993-6d5bc197b8d5)
-![image](https://github.com/ST10447238/README2/assets/160851446/2d386d84-1d3f-49d9-bc0f-f540cc13e9c5)
-![image](https://github.com/ST10447238/README2/assets/160851446/982bc5bf-b435-4813-a652-8551dc114d23)
-![image](https://github.com/ST10447238/README2/assets/160851446/ccdb21ff-3931-4171-aa41-a434e4c2f231)
+![image](https://github.com/ST10447238/README2/assets/160851446/2fbac222-f86b-44de-b694-9ac49f6bd3aa)
+![image](https://github.com/ST10447238/README2/assets/160851446/f3595a29-fa9c-4690-8e5c-56c30a591e11)
+![image](https://github.com/ST10447238/README2/assets/160851446/889fefad-8fef-4ce1-a6e7-72b772ee6852)
+![image](https://github.com/ST10447238/README2/assets/160851446/c3399b2f-8918-4fdb-aefd-4ca037745b49)
+![image](https://github.com/ST10447238/README2/assets/160851446/b7737f79-ce77-45d6-90a2-545e1a03cce6)
+![image](https://github.com/ST10447238/README2/assets/160851446/577acfc3-cdaa-42c3-b300-a085b279528f)
+![image](https://github.com/ST10447238/README2/assets/160851446/6d811fca-f092-4860-9552-b62bb5b08b9f)
+![image](https://github.com/ST10447238/README2/assets/160851446/f75d3b9e-2a5f-43cc-b596-b28f8268ce98)
+![image](https://github.com/ST10447238/README2/assets/160851446/8512a491-f1cf-4477-8780-2e5180cec845)
+![image](https://github.com/ST10447238/README2/assets/160851446/a191674b-9e9c-453a-91cd-4a82ba7b0d7e)
 
 # Purpose
 The purpose of the Tamagotchi App is to educate and give people experience in terms of taking care of a virtual pet, just like the way they would with real ones. The App is made to keep people engaged with interactive activities such as feeding, cleaning, playing, and most importantly disciplining the pet.
