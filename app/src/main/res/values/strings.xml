@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tamagotchiApplication</string>
+    <string name="clean">Clean</string>
+    <string name="feed">Feed</string>
+    <string name="play">Play</string>
+    <string name="button">Button</string>
+    <string name="Return">Return</string>
+</resources>

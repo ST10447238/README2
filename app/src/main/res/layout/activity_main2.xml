@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".MainActivity2">
+
+    <Button
+        android:id="@+id/btnFeed"
+        android:layout_width="97dp"
+        android:layout_height="58dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="222dp"
+        android:backgroundTint="#0E0D0D"
+        android:text="Feed"
+        android:textColor="#E8E5E5"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnClean"
+        app:layout_constraintEnd_toStartOf="@+id/feedStatus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/feedStatus"
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="84dp"
+        android:layout_marginTop="88dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="227dp"
+        android:text="Hungry"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:thumbTint="#0E0D0D"
+        app:layout_constraintBottom_toTopOf="@+id/cleanStatus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnFeed"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnClean"
+        android:layout_width="106dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="221dp"
+        android:backgroundTint="#1C1B1B"
+        android:text="Clean"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnPlay"
+        app:layout_constraintEnd_toStartOf="@+id/cleanStatus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/cleanStatus"
+        android:layout_width="126dp"
+        android:layout_height="43dp"
+        android:layout_marginStart="111dp"
+        android:layout_marginTop="360dp"
+        android:layout_marginEnd="65dp"
+        android:layout_marginBottom="233dp"
+        android:text="Clean"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:thumbTint="#1B1919"
+        app:layout_constraintBottom_toTopOf="@+id/playStatus"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnClean"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="111dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="55dp"
+        android:backgroundTint="#191818"
+        android:text="Play"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/playStatus"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnClean" />
+
+    <Switch
+        android:id="@+id/playStatus"
+        android:layout_width="142dp"
+        android:layout_height="54dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="72dp"
+        android:layout_marginBottom="51dp"
+        android:text="Happy"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:thumbTint="#1B1A1A"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btnPlay"
+        app:layout_constraintTop_toBottomOf="@+id/cleanStatus" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
